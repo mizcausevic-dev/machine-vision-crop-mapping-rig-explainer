@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/machine-vision-crop-mapping-rig-explainer/
 
+Repository: https://github.com/mizcausevic-dev/machine-vision-crop-mapping-rig-explainer
+
 ## What this is
 
 An interactive anatomy plate for Machine-Vision Crop Mapping Rig. Play, scrub, or jump the five stages. The same frame always draws the same picture.
